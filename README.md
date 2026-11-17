@@ -1,4 +1,4 @@
-![REZEN — AI, Marketing, Development](./banner-rezen-verticale.png)
+![REZEN — AI, Marketing, Development](./banner-rezen-ritratto.png)
 
 # Jose Stefano Arnone
 
